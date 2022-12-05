@@ -1,0 +1,45 @@
+.contact-box {
+  display: flex;
+  justify-content: center;
+  height: 220px;
+}
+
+.email-container {
+  width: 300px;
+}
+
+.email {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
+
+.gmail {
+  text-align: left;
+
+  font-size: 18px;
+}
+
+.phone-container {
+  margin-top: 10px;
+}
+
+.left-contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.con {
+  display: flex;
+  justify-content: left;
+}
+
+/* #contact-link {
+  text-decoration: none !important;
+} */
+
+a {
+  text-decoration: none !important;
+}
